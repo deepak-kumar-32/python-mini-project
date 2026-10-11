@@ -1,0 +1,5 @@
+r=open("deep.txt","w")
+data=r.write("sita is so beautiful than gita .")
+r.close()
+r=open("deep.txt","a")
+r.write(" this is new lines ")

@@ -1,0 +1,5 @@
+f=open("ram.txt","w")
+f.write("ram is so handsome")
+f=open("ram.txt","w+")
+f.write("sita ")
+f.close()

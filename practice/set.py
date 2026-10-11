@@ -1,0 +1,11 @@
+set={2,4,2,3,6,5,6,8}
+print(set)
+print(len(set))
+(set.add("9"))
+print(set)
+(set.remove("9"))
+print(set)
+(set.pop())
+print(set)
+(set.clear())
+print(set)
